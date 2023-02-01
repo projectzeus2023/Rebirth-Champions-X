@@ -1,6 +1,6 @@
 # Rebirth Champions X - Very OP Script
 
-ㅤㅤㅤㅤㅤㅤ[![Canal](https://img.shields.io/badge/Meu_Canal-0096FF?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCs9XEr23rhFegHb7l4JIDNA?sub_confirmation=1_blank)
+ㅤㅤㅤㅤㅤㅤﾠ[![Canal](https://img.shields.io/badge/Meu_Canal-0096FF?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCs9XEr23rhFegHb7l4JIDNA?sub_confirmation=1_blank)
 [![Tutorial](https://img.shields.io/badge/TUTORIAL-0096FF?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=vPru0YkVkPo_blank)
 [![Download](https://img.shields.io/badge/SCRIPT-0096FF?style=for-the-badge&logo=pastebin&logoColor=white)](https://mboost.me/a/9c2)
 
